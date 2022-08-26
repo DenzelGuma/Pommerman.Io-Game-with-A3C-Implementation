@@ -3,6 +3,22 @@ Interactive Game based off the https://www.pommerman.com Competitions
 
 The A3C algorithm implementation used for the game was influenced by Mirza Hasanbasic and Eugene Zainchkovskyy -  https://github.com/eugene/pommerman
 
+# The Game 
+
+A3C Agent (Red Agent) - Agent that uses the A3C DRL algorithm and has been trained on 25,000 games
+
+Random Agent (Blue Agent) - Agent that randomly  chooses an action from the games 6 set actions 
+
+Simple Agent (Purple Agent) - Agent which uses rule-based systems and Dijkstra’s algorithm 
+
+Player Agent (Green Agent) - Agent which is controlled by the player
+
+
+<p float="left">
+  <img src="Game_Main_Menu.PNG" width="450" />
+  <img src="RunningGame.PNG" width="500" /> 
+</p>
+
 # Development Requirements
 To develop this game there are certain installations required ranging from programming language to library dependencies: 
 
@@ -27,3 +43,8 @@ In order to run the game you will need to move the model to the main playground 
 The Itch.io game link =  https://gumad.itch.io/pommermanio
 
 The Microsoft Forms Questionnaire link = https://forms.office.com/r/CpTww4BfdK 
+
+# Dissertation Paper 
+
+<a href="https://github.coventry.ac.uk/gumad/Pommerman.Io-Game-with-A3C-Implementation-/blob/main/DissertationPaper.pdf">Dissertation Paper</a>
+
