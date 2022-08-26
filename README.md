@@ -15,9 +15,9 @@ Player Agent (Green Agent) - Agent which is controlled by the player
 
 
 <p float="left">
-  <img src="Game_Main_Menu.PNG" width="400" />
+  <img src="Game_Main_Menu.PNG" width="300" />
   <img src="RunningGame.PNG" width="400" /> 
-  <img src="PostGameMenu.PNG" width="400" />
+  <img src="PostGameMenu.PNG" width="300" />
 </p>
 
 # Development Requirements
