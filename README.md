@@ -45,7 +45,5 @@ The Itch.io game link =  https://gumad.itch.io/pommermanio
 
 The Microsoft Forms Questionnaire link = https://forms.office.com/r/CpTww4BfdK 
 
-# Dissertation Paper 
 
-<a href="https://github.coventry.ac.uk/gumad/Pommerman.Io-Game-with-A3C-Implementation-/blob/main/DissertationPaper.pdf">Dissertation Paper</a>
 
